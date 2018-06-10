@@ -15,7 +15,7 @@ def prime?(num)
       return false 
     end 
     i += 1 
-    limit = numb / i 
+    limit = num / i 
   end 
   return true
 end
